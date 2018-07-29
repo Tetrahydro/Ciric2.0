@@ -1,0 +1,10 @@
+ @font-face {
+    font-family: BitterSweet_font;
+    src: url(/res/BitterSweet.ttf);
+    font-weight: bold;
+}
+
+.bitterSweet {
+	font-family: BitterSweet_font;
+	font-size: 7;
+}
