@@ -8,3 +8,6 @@
 	font-family: BitterSweet_font;
 	font-size: 7;
 }
+ .pageheigth {
+ 	min-height: 600px;
+ }
